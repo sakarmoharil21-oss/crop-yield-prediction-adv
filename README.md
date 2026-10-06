@@ -2,7 +2,17 @@
 An end-to-end full-stack agricultural decision support platform. The system leverages a Machine Learning Random Forest regression pipeline to predict crop yield in tonnes per hectare (t/ha) from soil and environmental metrics, evaluates real-time agronomic advisory rules, tracks historical performance via MySQL, and visualizes farm health spatially using Leaflet.
 ---
 ## 📽️ Demo & Workflow Walkthrough
-https://github.com/user-attachments/assets/demo.mp4
+
+
+
+
+https://github.com/user-attachments/assets/f7b9de11-96c9-40ed-b91d-4a806cbcf395
+
+
+
+
+
+
 > *The workflow demonstrates parameter submission, real-time yield evaluation, dynamic agronomic rule feedback, historical trend integration, and field plot status tracking.*
 ---
 ## 🚀 Key Features
